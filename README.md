@@ -8,5 +8,3 @@
 - 📫 How to reach me: rajvee.sheth@iitgn.ac.in | 💼 [LinkedIn](https://www.linkedin.com/in/rajvee-sheth/)
 - 😄 Pronouns: she/her
 - 💭 Interests: Building AI that understands how multilingual communities actually communicate—mixing languages, scripts, and cultures.
-
-🌟 [rajveesheth.github.io](https://rajveesheth.github.io)
