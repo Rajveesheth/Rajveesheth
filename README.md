@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Rajvee Sheth 
+## Hi there! 👋 
 
 - Building tools and benchmarks that make LLMs truly understand Code-Mixed text
 
